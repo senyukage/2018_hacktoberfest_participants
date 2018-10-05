@@ -1,0 +1,12 @@
+{
+  participants: [
+    {
+      githubUserName: "austinwk",
+      displayName: "Austin W Keeton"
+    },
+    {
+      githubUserName: "someone-else",
+      displayName: "Someone Else"
+    }
+  ]
+}
